@@ -1,0 +1,1 @@
+g++ -std=c++17 -Wall -Wextra -Wpedantic -Werror -I.\include src\*.cpp -o ukelele_chicken.exe
